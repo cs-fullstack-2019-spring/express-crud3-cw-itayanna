@@ -1,3 +1,7 @@
+## POINTS: 2.0
+## KEY: Great Job. Excellent comments!
+
+
 # Express CRUD classwork
 
 Reference here for sample data: https://pokedex.org/#/
